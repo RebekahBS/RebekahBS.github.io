@@ -16,3 +16,18 @@ img {
   margin-right: auto;
   width: 40%;
 }
+
+#body-paragraph {
+	border: 2px dotted purple;
+	width: 1000px;
+	padding: 10px;
+}
+
+footer {
+	font-size: 12px;
+	color: darkslategrey;
+}
+
+a {
+	color: darkslategrey;
+}
