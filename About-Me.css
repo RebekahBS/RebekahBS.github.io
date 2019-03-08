@@ -31,3 +31,22 @@ footer {
 a {
 	color: darkslategrey;
 }
+
+
+@media (max-width: 1024px) {
+	body {
+		background-color: lightpink; 
+	}
+	p {
+		font-size: 40px;
+	}
+} /*ends media query*/
+
+
+@media (max-width: 400px) {
+	body {
+		background-color: lightpink; 
+	}
+	p {
+		font-size: 40px;
+	}
